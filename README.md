@@ -4,9 +4,10 @@
 
 - I'm a software developer from Brazil 🇧🇷.
 
-### Tech I'm passionate about
+<!-- ### Tech I'm passionate about
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,docker)](https://skillicons.dev) 
+-->
 
 <!--
 **lzldev/lzldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
